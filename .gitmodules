@@ -1,0 +1,3 @@
+[submodule "breaking-bad"]
+	path = breaking-bad
+	url = git@github.com:Dounder/v-breaking-bad.git
