@@ -1,3 +1,6 @@
 [submodule "breaking-bad"]
 	path = breaking-bad
 	url = git@github.com:Dounder/v-breaking-bad.git
+[submodule "issues-app"]
+	path = issues-app
+	url = git@github.com:Dounder/v-issues-app.git
