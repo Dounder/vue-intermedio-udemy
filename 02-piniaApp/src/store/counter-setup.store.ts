@@ -1,7 +1,7 @@
-import { defineStore } from "pinia";
-import { computed, ref } from "vue";
+import { defineStore } from 'pinia';
+import { computed, ref } from 'vue';
 
-export const useCounterSetupStore = defineStore("counterSetup", () => {
+export const useCounterSetupStore = defineStore('counterSetup', () => {
   const count = ref<number>(0);
   const lastChanged = ref<Date>();
 
